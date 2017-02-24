@@ -23,6 +23,8 @@ Visit https://developer.apple.com/xcode/ to download Xcode.
 
 You will need an Apple developer account to integrate your apps with the Game Center and to submit your games to the App Store.
 
+Note: Chapter 1 has no code as it is an introductory chapter and Chapter 11 has no code files present.
+
 ##Related Products
 * [iOS 9 Game Development Essentials](https://www.packtpub.com/game-development/ios-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781785284694)
 
